@@ -78,6 +78,8 @@
 </div>
 
 ---
+### 🐍 Contribution Graph
+<img src="https://raw.githubusercontent.com/realutkarshh/realutkarshh/output/snake.svg" alt="Snake animation" />
 
 ## 🌍 Connect with Me  
 
