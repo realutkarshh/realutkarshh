@@ -78,9 +78,11 @@
 </div>
 
 ---
-### 🐍 Contribution Graph
-<img src="https://raw.githubusercontent.com/realutkarshh/realutkarshh/output/snake.svg" alt="Snake animation" />
 
+### 🐍 Contribution Graph
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+---
 ## 🌍 Connect with Me  
 
 <p align="left">
