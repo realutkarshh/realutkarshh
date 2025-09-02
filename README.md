@@ -17,21 +17,31 @@
 
 ## 🚀 About Me
 
-const utkarsh = {
-name: "Utkarsh Singh",
-role: "Full Stack Developer",
-location: "India 🇮🇳",
-languages: ["JavaScript", "TypeScript", "Java", "Python"],
-askMeAbout: ["Web Dev", "Tech", "MERN Stack", "Problem Solving"],
-technologies: {
-frontEnd: ["React", "Next.js", "TailwindCSS", "HTML5", "CSS3"],
-backEnd: ["Node.js", "Express.js"],
-databases: ["MongoDB", "MySQL", "Firebase", "Appwrite"],
-tools: ["Git", "Postman", "VS Code", "GitHub", "GitLab"]
-},
-currentFocus: "Building scalable web applications",
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+## 🚀 About Me
+
+```yaml
+name: Utkarsh Singh
+role: Full Stack Developer
+location: India 🇮🇳
+languages:
+  - JavaScript
+  - TypeScript
+  - Java
+  - Python
+askMeAbout:
+  - Web Development
+  - MERN Stack
+  - Problem Solving
+technologies:
+  frontEnd: [React, Next.js, TailwindCSS, HTML5, CSS3]
+  backEnd: [Node.js, Express.js]
+  databases: [MongoDB, MySQL, Firebase, Appwrite]
+  tools: [Git, Postman, VS Code, GitHub, GitLab]
+currentFocus: Building scalable web applications
 funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
+
 
 text
 
