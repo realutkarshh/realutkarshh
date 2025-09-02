@@ -58,16 +58,24 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realutkarshh&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realutkarshh&theme=tokyonight" alt="GitHub Streak" height="180px"/>
-</p>  
+<div align="center">
+  
+<!-- GitHub Stats Cards -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=realutkarshh&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=realutkarshh&theme=radical&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realutkarshh&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>  
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=realutkarshh&theme=react-dark&hide_border=true&area=true" />
+
+<!-- Top Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realutkarshh&layout=compact&theme=radical&hide_border=true" />
+
+<!-- GitHub Trophies -->
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=realutkarshh&theme=radical&no-frame=true&column=4&margin-w=15" />
+
+</div>
 
 ---
 
