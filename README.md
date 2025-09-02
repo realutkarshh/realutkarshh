@@ -5,9 +5,8 @@
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C0A7&width=500&lines=Fullstack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Tech+Content+Creator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Computer+Science+Undergrad;Full+Stack+MERN+Developer;Next.js+Learner;Open+Source+Contributor;Always+Learning+New+Tech!">
 </p>
-
 ---
 
 ## 🚀 About Me  
