@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Computer+Science+Undergrad;Full+Stack+MERN+Developer;Next.js+Learner;Open+Source+Contributor;Always+Learning+New+Tech!">
 </p>
----
 
 ## 🚀 About Me  
 
