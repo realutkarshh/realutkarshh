@@ -1,82 +1,168 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
-<h3 align="center">A Fullstack Developer passionate about building scalable web applications</h3>
+<div align="center">
+  
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Utkarsh%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Typing SVG Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C0A7&width=500&lines=Fullstack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor;Tech+Content+Creator" alt="Typing Animation" />
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=realutkarshh&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%9F;Building+Digital+Solutions+%E2%9A%A1" alt="Typing SVG" />
+
+</div>
+
+---
+
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+## 🚀 About Me
+
+const utkarsh = {
+name: "Utkarsh Singh",
+role: "Full Stack Developer",
+location: "India 🇮🇳",
+languages: ["JavaScript", "TypeScript", "Java", "Python"],
+askMeAbout: ["Web Dev", "Tech", "MERN Stack", "Problem Solving"],
+technologies: {
+frontEnd: ["React", "Next.js", "TailwindCSS", "HTML5", "CSS3"],
+backEnd: ["Node.js", "Express.js"],
+databases: ["MongoDB", "MySQL", "Firebase", "Appwrite"],
+tools: ["Git", "Postman", "VS Code", "GitHub", "GitLab"]
+},
+currentFocus: "Building scalable web applications",
+funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+
+text
+
+<br clear="both">
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🌐 Frontend Magic
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
 </p>
 
----
+### ⚡ Backend Power  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c" />
+</p>
 
-## 🚀 About Me  
+### 🗄️ Database Mastery
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,sqlite" />
+</p>
 
-- 💻 I’m a **Fullstack Developer** with experience in building **scalable, real-world web applications**  
-- 🛠️ Skilled in **Next.js, React, Node.js, Express.js, TailwindCSS**  
-- 📊 Worked with multiple **databases**: MongoDB, MySQL, Firebase, Appwrite  
-- ⚡ Passionate about **problem-solving & exploring new technologies**  
-- 🌐 Check out my portfolio: [utkarsh.info](https://utkarsh.info)  
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/realutkarshh)  
+### 🔧 Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,npm" />
+</p>
 
----
-
-## 🧰 Tech Stack  
-
-**🌐 Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
-
-**⚙️ Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-
-**🗄️ Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white)  
-
-**🛠️ Tools:**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=flat&logo=mongodb&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat&logo=visualstudiocode&logoColor=white)  
-
-**💻 Programming Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+</div>
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realutkarshh&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=realutkarshh&theme=tokyonight" alt="GitHub Streak" height="180px"/>
-</p>  
+<div align="center">
+  
+<!-- GitHub Stats Cards -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=realutkarshh&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=realutkarshh&theme=radical&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realutkarshh&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>  
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=realutkarshh&theme=react-dark&hide_border=true&area=true" />
 
----
+<!-- Top Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realutkarshh&layout=compact&theme=radical&hide_border=true" />
 
-## 🌍 Connect with Me  
+<!-- GitHub Trophies -->
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=realutkarshh&theme=radical&no-frame=true&column=4&margin-w=15" />
 
-<p align="left">
-<a href="https://linkedin.com/in/realutkarshh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://utkarsh.info" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white"/></a>
-<a href="https://github.com/realutkarshh" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>  
+</div>
 
 ---
 
-⭐️ From [Utkarsh Singh](https://github.com/realutkarshh)  
+## 💫 Quick Stats
+
+<div align="center">
+  
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🔥 Current Streak**
+🌟 Open Source Contributions
+📚 Learning Something New Daily
+💡 Building Cool Projects
+🚀 Pushing Code to GitHub
+
+text
+
+</td>
+<td align="center" width="50%">
+
+**⚡ Fun Facts**
+☕ Coffee Consumed: ∞ cups
+🐛 Bugs Fixed: 999+
+⌨️ Lines of Code: 50,000+
+🎯 Projects Completed: 25+
+
+text
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+### 💬 Reach out to me!
+
+<p>
+<a href="https://linkedin.com/in/realutkarshh">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
+</a>
+<a href="https://utkarsh.info">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/realutkarshh">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+</p>
+
+### 📧 Let's build something amazing together!
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🐍 Contribution Graph
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+**💙 Thank you for visiting my profile!**  
+⭐ **Star some repositories if you find them interesting!**
+
+</div>
