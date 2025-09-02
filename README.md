@@ -1,4 +1,3 @@
-Make this special repo of my github account more appealing and more attractive with the existing data : 
 <!-- Profile Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Utkarsh%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <h3 align="center">A Fullstack Developer passionate about building scalable web applications</h3>
