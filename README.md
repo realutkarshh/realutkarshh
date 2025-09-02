@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Computer+Science+Undergrad;Full+Stack+MERN+Developer;Next.js+Learner;Open+Source+Contributor;Always+Learning+New+Tech!">
 </p>
 
+---
 ## 🚀 About Me  
 
 - 💻 I’m a **Fullstack Developer** with experience in building **scalable, real-world web applications**  
